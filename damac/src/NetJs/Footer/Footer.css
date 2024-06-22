@@ -1,0 +1,14 @@
+#footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fcfcfc;
+  background-color: #091d41;
+  font-size: 20px;
+  height: 108px;
+  width: 100vw;
+  font-family: Poppins, Helvetica, sans-serif;
+  margin-top: 84px;
+  position: absolute;
+  top: 2346px;
+}

@@ -1,0 +1,123 @@
+.features {
+  background-color: #f4f9ff;
+  height: 177.81px;
+  width: 1457px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  position: absolute;
+  top: 650.19px;
+}
+
+.wrapper1 {
+  margin-left: 161px;
+}
+.wrapper {
+  margin-left: 120px;
+}
+.features h2 {
+  color: #00357b;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 16;
+  text-align: center;
+}
+
+.features h1 {
+  color: #00357b;
+  font-family: Oswald;
+  font-weight: 500;
+  font-size: 30px;
+  text-align: center;
+}
+
+.features img {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.features div {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.Harbour {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 200px;
+}
+.Harbour h2 {
+  margin-top: 10px;
+  font-family: Oswald;
+  font-weight: 500;
+  font-size: 36px;
+  color: #00357b;
+  margin-bottom: 10px;
+}
+
+.Harbour p {
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+  color: #343434;
+  margin-bottom: 10px;
+}
+#container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-left: 120px;
+  margin-right: 161px;
+}
+.card {
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+  display: flex;
+  padding: 10px;
+  flex-direction: column;
+  width: 227px;
+  text-align: center;
+  height: 271px;
+  align-items: center;
+  border-radius: 20px;
+  box-shadow: 14px 14px 90px rgba(126, 126, 126, 0.35);
+}
+.card img {
+  width: 206px;
+  height: 199.5px;
+}
+.card p {
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 14px;
+  text-align: center;
+  padding: 10px;
+  color: #00357b;
+}
+h4 {
+  font-family: Poppins;
+  font-weight: 300;
+  font-size: 10px;
+  text-align: right;
+  color: #686868;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  position: absolute;
+  top: 1446px;
+  left: 920px;
+}
+
+h4 span {
+  text-decoration: underline;
+  cursor: pointer;
+}
